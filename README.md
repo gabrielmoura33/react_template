@@ -1,6 +1,6 @@
-## BoilerPlate create-react-app + Eslint Config + Prettier + EditorConfig
+## BoilerPlate create-react-app + Eslint Config + Prettier + EditorConfig (JavaScript)
 
-Boilerplate TS Project ( Create React App ) 🧑🏾‍💻
+Boilerplate JS Project ( Create React App ) 🧑🏾‍💻
 That's my personal Boilerplate for a react project using pure JavaScript, Config Prettier, ESlint and EditorConfig
 
 To use this boilerplate, go to the folder on your terminal and run:
