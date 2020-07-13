@@ -5,7 +5,7 @@ That's my personal Boilerplate for a react project using pure JavaScript, Config
 
 To use this boilerplate, go to the folder on your terminal and run:
 
-git clone https://github.com/gabrielmoura33/boilerplate-js/
+> $ git clone https://github.com/gabrielmoura33/boilerplate-js/
 
 After you clone the aplication, rename it and run the code:
 
